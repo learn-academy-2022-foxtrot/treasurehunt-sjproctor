@@ -16,3 +16,14 @@ h1 {
   width: 610px;
   margin: 0 auto;
 }
+
+.button-section {
+  text-align: center;
+}
+
+.reset-button {
+  padding: 10px;
+  border-radius: 10px;
+  margin: 15px;
+  font-size: 2rem;
+}
